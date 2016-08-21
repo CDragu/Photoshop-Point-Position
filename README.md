@@ -2,7 +2,7 @@
 A Script that modifies the content of a Text Layer into its position in cm on the canvas.
 Source code:
 <code>
-// Position Script For PS CS6
+// Position Script For PS CS6 /n
 // Remember current unit settings and then set units to Centimeters
 // the value expected by this script
 var originalUnit = preferences.rulerUnits
