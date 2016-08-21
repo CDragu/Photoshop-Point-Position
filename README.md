@@ -1,7 +1,7 @@
 # Photoshop-Point-Position
 A Script that modifies the content of a Text Layer into its position in cm on the canvas.
 Source code:
-
+<code>
 // Position Script For PS CS6
 // Remember current unit settings and then set units to Centimeters
 // the value expected by this script
@@ -21,7 +21,7 @@ artLayerRef = null
 textItemRef = null
 // Restore original ruler unit setting
 app.preferences.rulerUnits = originalUnit
-
+</code>
 Steps to make it work in Adobe Photoshop CS6:
   1. Copy the Source Code into a txt file.
   2. Save file as .jsx
