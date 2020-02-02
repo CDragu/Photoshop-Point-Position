@@ -50,3 +50,5 @@ Steps to make it work in Adobe Photoshop CS6:
   5. Select your script from the folder
   
 Bonus point: For easyer use make a Action to access it with a keybind.
+
+++ Archive ++
